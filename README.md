@@ -17,7 +17,7 @@ It provides both historical performance evaluation and forward-looking projectio
 ### Drawdown Analysis
 Visualizes the worst peak-to-trough declines for the top Sharpe ratio stocks, highlighting downside risks.
 
-![Drawdown](drawdown.png)
+![Drawdown](Drawdown.png)
 
 ### Monte Carlo Simulations
 Simulates 5,000 one-month paths based on historical returns.  
